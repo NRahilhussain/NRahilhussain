@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NRahilhussain
 - 👀 I’m interested in research
-- 🌱 I’m currently learning ... machine learning
-- 💞️ I’m looking to collaborate on ... machine learning and deep learning
+- 🌱 I’m currently learning ... reinforcement learning
+- 💞️ I’m looking to collaborate on ... machine learning,deep learning and reinforcement learning
 - 📫 How to reach me ...
 
 <!---
